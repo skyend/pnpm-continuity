@@ -12,3 +12,7 @@ Publish mirrored modules to private repository
 go run inter-continuity/publish.go
 ```
 Do change `npm registry url` and `npm login` before execute `publish.go`
+
+
+# Todo
+* [ ] Check already published module before publish
