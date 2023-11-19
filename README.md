@@ -4,7 +4,7 @@ Mirroring project package.json
 ```shell
 go run inter-continuity/mirroring.go
 ```
-Will created `npm-packages/` in your working directory
+Will be created `npm-packages/` in your working directory
 
 
 Publish mirrored modules to private repository
