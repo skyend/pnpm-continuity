@@ -1,0 +1,7 @@
+.idea/
+npm-packages/
+package.json
+pnpm-lock.yaml
+mirror-log.txt
+go.log
+!example/package.json
