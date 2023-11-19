@@ -16,3 +16,4 @@ Do change `npm registry url` and `npm login` before execute `publish.go`
 
 # Todo
 * [ ] Check already published module before publish
+* [ ] Add program arguments for flexible usage
